@@ -6,4 +6,7 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 
 **Performed Tasks**
 
-Data Manipulation and Bootstrap Analysis
+- Importing and cleaning data
+- Data Manipulation
+- Data visualization
+- Bootstrap Analysis
